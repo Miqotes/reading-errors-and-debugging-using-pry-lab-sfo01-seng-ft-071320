@@ -6,6 +6,5 @@ def snake_it_up(string)
     10 * "s" + string
   elsif
     string
-    binding.pry
   end
 end
